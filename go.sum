@@ -1,5 +1,7 @@
 github.com/Baozisoftware/qrcode-terminal-go v0.0.0-20170407111555-c0650d8dff0f h1:2dk3eOnYllh+wUOuDhOoC2vUVoJF/5z478ryJ+wzEII=
 github.com/Baozisoftware/qrcode-terminal-go v0.0.0-20170407111555-c0650d8dff0f/go.mod h1:4a58ifQTEe2uwwsaqbh3i2un5/CBPg+At/qHpt18Tmk=
+github.com/Rhymen/go-whatsapp v0.0.0-20190203141307-b53e9833a5ce h1:ysawjv9/kL1GZPDBipnQSRLwbwRy8dXl2RMCrINFYuI=
+github.com/Rhymen/go-whatsapp v0.0.0-20190203141307-b53e9833a5ce/go.mod h1:MSDmePOOkbFFbVW2WRRppBcbA+aabwpXRgyIIG7jDFQ=
 github.com/golang/protobuf v1.2.0 h1:P3YflyNX/ehuJFLhxviNdFxQPkGK5cDcApsge1SqnvM=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
